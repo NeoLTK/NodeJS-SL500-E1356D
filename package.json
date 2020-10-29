@@ -1,0 +1,21 @@
+{
+  "name": "lrfid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "cors": "^2.8.5",
+    "express": "^3.21.2",
+    "ffi": "^2.3.0",
+    "jade": "^1.11.0",
+    "mitsobox": "^0.1.4",
+    "ref": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,8 @@
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.exe
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.pdb
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\bin\Debug\Mifare1K.exe
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\bin\Debug\Mifare1K.pdb
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\ResolveAssemblyReference.cache
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.Properties.Resources.resources
+E:\xuyi\wangxuejun\C#项目\Mifare1K\Mifare1K\obj\Debug\Mifare1K.csproj.GenerateResource.Cache

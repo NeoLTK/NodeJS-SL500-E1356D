@@ -1,0 +1,9 @@
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\bin\x64\Debug\Project1.exe
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\bin\x64\Debug\Project1.pdb
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\bin\x64\Debug\Project1.xml
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\ResolveAssemblyReference.cache
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\Project1.frm_main.resources
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\vbdemo.vbproj.GenerateResource.Cache
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\Project1.exe
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\Project1.xml
+D:\Project\wangxuejun\VB-vs2005\Project1.NET\obj\x64\Debug\Project1.pdb
